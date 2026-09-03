@@ -1,6 +1,5 @@
 # Shor's Algorithm: Factoring 15 and 21 with Full Circuit
 
-**EMAAN ADAL | 0085533**
 
 This repository contains the complete implementation and empirical analysis of integer factorization comparing classical benchmarking paradigms with Shor's quantum factoring algorithm. This project was developed as part of the **ELEC/PHYS 450/550: Quantum Computing** course at **Koç University** (Spring 2026).
 
